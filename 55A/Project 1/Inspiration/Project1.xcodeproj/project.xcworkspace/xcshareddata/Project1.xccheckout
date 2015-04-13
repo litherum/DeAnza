@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35326A56-3D97-4A52-B083-FE7D7437A193</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Project1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4DBC14B47CCCB9D8B55FABCF7E807E796346AAD8</key>
+		<string>github.com:litherum/DeAnza.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>55A/Project 1/Inspiration/Project1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4DBC14B47CCCB9D8B55FABCF7E807E796346AAD8</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:litherum/DeAnza.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4DBC14B47CCCB9D8B55FABCF7E807E796346AAD8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4DBC14B47CCCB9D8B55FABCF7E807E796346AAD8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeAnza</string>
+		</dict>
+	</array>
+</dict>
+</plist>
